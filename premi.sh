@@ -29,10 +29,10 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To Agung Tunneling ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To ABR STORE SCRIPT ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}Agung vpn® ${NC}${YELLOW}(${NC} ${green} Agung Tunneling ${NC}${YELLOW})${NC}"
-echo -e " © Recode By My Self Agung Tunneling${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
+echo -e "  Auther : ${green}ABR STORE ${NC}${YELLOW}(${NC} ${green} ABR STORE ID ${NC}${YELLOW})${NC}"
+echo -e " © Recode By My Self ABR STORE${YELLOW}(${NC} 2024 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
